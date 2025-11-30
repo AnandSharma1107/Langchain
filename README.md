@@ -1,2 +1,2 @@
 # Langchain
-Learning the basic of Langchain
+Learning the basics of Langchain

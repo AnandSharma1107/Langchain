@@ -1,0 +1,11 @@
+langchain
+ipykernel
+python-dotenv
+streamlit
+beautifulsoup4
+langchain_community
+faiss-cpu
+fastapi
+uvicorn
+langserve
+sse_starlette

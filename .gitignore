@@ -1,0 +1,8 @@
+venv/
+.env
+getting_started.ipynb
+__pycache__/
+*.pyc
+Chatbot With Chat History/
+groq LCEL/
+ollama/

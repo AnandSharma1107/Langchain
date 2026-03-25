@@ -31,7 +31,6 @@ Built using LangChain + Groq LLM.
 
 ## 🚀 Demo
 
-![Search Demo](Assets/Demo Search Engine.gif)
 ![SearchEngineDemo](https://github.com/user-attachments/assets/74b5dec3-d71e-45b3-b1a6-0637abab1995)
 
 

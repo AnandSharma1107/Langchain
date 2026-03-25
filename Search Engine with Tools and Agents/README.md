@@ -27,4 +27,9 @@ Built using LangChain + Groq LLM.
 - Wikipedia API
 - arXiv API
 
+---
+
+## 🚀 Demo
+
+![Search Demo](Assets/Demo Search Engine.gif)
 
